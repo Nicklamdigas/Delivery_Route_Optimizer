@@ -92,7 +92,7 @@ python generate_graphs.py
 delivery-optimization-project/
 ├── delivery_optimizer.py      # Main implementation
 ├── generate_graphs.py         # Graph generation
-├── analysis.md                # Detailed analysis
+├── ANALYSIS.md                # Detailed analysis
 ├── screenshots/               # Output screenshots
 └── README.md                  # This file
 ```
@@ -114,4 +114,5 @@ pip install matplotlib numpy
 ## Author
 
 [Nicholas Ndungu Mathenge BSE-01-0109/2025]
+
 
